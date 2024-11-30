@@ -2,11 +2,19 @@
 
 ## Cenário
 
-Imagine a Adventure Works, uma empresa de artigos esportivos que principalmente vende bicicletas. A empresa coleta grandes volumes de dados de transações de vendas em seu banco de dados OLTP (Online Transaction Processing). Este banco de dados é excelente para operações diárias, como inserção e atualização de registros, mas não é ideal para análises complexas e relatórios históricos. Para obter insights valiosos e melhorar a tomada de decisões, a Adventure Works decide transformar seus dados OLTP em um Data Warehouse (DW) utilizando uma arquitetura de Lakehouse com Databricks na Azure.
+Imagine a Adventure Works, uma empresa de artigos esportivos que principalmente vende bicicletas.
+
+A empresa coleta grandes volumes de dados de transações de vendas em seu banco de dados OLTP (Online Transaction Processing).
+
+Este banco de dados é excelente para operações diárias, como inserção e atualização de registros, mas não é ideal para análises complexas e relatórios históricos.
+
+Para obter insights valiosos e melhorar a tomada de decisões, a Adventure Works decide transformar seus dados OLTP em um Data Warehouse (DW) utilizando uma arquitetura de Lakehouse com Databricks na Azure.
 
 ## Arquitetura Lakehouse na Azure com Databricks
 
-A arquitetura de Lakehouse combina os melhores aspectos dos Data Lakes e Data Warehouses. No Azure, isso pode ser alcançado utilizando o Azure Data Lake Storage (ADLS) para armazenar grandes volumes de dados em seu formato bruto e o Databricks para transformar e analisar esses dados.
+A arquitetura de Lakehouse combina os melhores aspectos dos Data Lakes e Data Warehouses.
+
+No Azure, isso pode ser alcançado utilizando o Azure Data Lake Storage (ADLS) para armazenar grandes volumes de dados em seu formato bruto e o Databricks para transformar e analisar esses dados.
 
 ### Componentes Principais
 

@@ -59,7 +59,7 @@ Criar um projeto de Data Analytics para uma empresa de retail.
 - [ ] Criar App Registration
 - [ ] Configurar Permissões e Planejamento dos Diretórios
 - [ ] Configurar Key Vault
-  - [ ] Criar recurso na Azure
+  - [ ] Criar recursos na Azure
   - [ ] Definir permissões de usuário e políticas de acesso
   - [ ] Criar segredos/senhas
 - [ ] Configurar Databricks Secrets

@@ -1,5 +1,5 @@
 
-# Python Cheatsheet (Formato com Tabelas)
+# Python Cheatsheet
 
 ## 1. Variáveis e Tipos de Dados
 

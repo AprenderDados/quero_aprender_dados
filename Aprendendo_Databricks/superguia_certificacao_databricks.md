@@ -40,7 +40,11 @@ Os principais temas incluem:
 
 ## Treinamento Aprender Dados
 
-[**Adquira agora o Treinamento Aprender Dados**](https://pay.kiwify.com.br/hP20Upy)  
+[**Adquira agora o Treinamento Aprender Dados**](https://pay.kiwify.com.br/hP20Upy)
+
+[**Já comprei o curso**](https://alunos.aprenderdados.com/189295-preparatorio-databricks-data-engineering-associate)
+
+
 Nosso treinamento abrange as principais áreas para a certificação, organizadas em módulos:
 
 1. **Introdução ao Databricks Community + Workspace + PySpark + SQL**
@@ -92,7 +96,7 @@ Nossos simulados são parte fundamental da preparação:
 
 ---
 
-## Diagrama Atualizado: Fluxo de Estudo e Implementação
+## Diagrama: Fluxo de Estudo e Implementação
 
 Segue o diagrama atualizado com os principais fluxos de estudo e implementação:
 

@@ -120,11 +120,11 @@ graph TD;
 
 ## Seu Checklist para aprovação
 
-1. [ ] Complete o **Treinamento Aprender Dados**.
-2. [ ] Realize os três simulados.
-3. [ ] Participe da live "Lakehouse Fundamentals".
-4. [ ] Pratique com exemplos delta tables e Spark SQL.
-5. [ ] Revise os tópicos principais regularmente.
+1. [ ] Complete o **[Treinamento Aprender Dados](https://pay.kiwify.com.br/hP20Upy)** 🍀.
+2. [ ] Realize os três simulados (disponíveis imediatamente após a compra). 
+3. [ ] Assista a live "Lakehouse Fundamentals".
+4. [ ] Pratique no Databricks com exemplos delta tables e Spark SQL.
+5. [ ] Revise os tópicos da "Checklist Técnica da Databricks Associate".
 
 ---
 

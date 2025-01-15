@@ -4,13 +4,16 @@
 
 ## Objetivo do Guia
 
-Este guia tem como finalidade oferecer um material completo de estudo para a certificação **Databricks Data Engineer Associate**, com base no **Treinamento Aprender Dados**, que é o núcleo desta preparação. O treinamento cobre de forma prática e teórica os principais tópicos cobrados no exame, complementado por simulados exclusivos e materiais de apoio.
+Este guia tem como finalidade oferecer um material completo de estudo para a certificação **Databricks Data Engineer Associate**, com base no **Treinamento Aprender Dados**, que é o núcleo desta preparação. 
+O treinamento cobre de forma prática e teórica os principais tópicos cobrados no exame, complementado por simulados exclusivos e materiais de apoio.
 
 ---
 
 ## Estrutura do Exame
 
-O exame está dividido em tópicos de alta relevância para um engenheiro de dados iniciante, com base em cenários práticos e arquiteturas modernas como Lakehouse. Os principais temas incluem:
+O exame está dividido em tópicos de alta relevância para um engenheiro de dados iniciante, com base em cenários práticos e arquiteturas modernas como Lakehouse. 
+
+Os principais temas incluem:
 
 1. **Databricks Lakehouse Platform (24%)**
    - Compreender as vantagens e uso da plataforma Lakehouse.
@@ -55,11 +58,7 @@ Nosso treinamento abrange as principais áreas para a certificação, organizada
 Nossos simulados são parte fundamental da preparação:
 
 1. **Simulado 1: Preparação Inicial**  
-   - [Adquira Aqui](https://pay.kiwify.com.br/hP20Upy)
-
 2. **Simulado 2: Intermediário**  
-   - [Adquira Aqui](https://pay.kiwify.com.br/hP20Upy)
-
 3. **Simulado 3: Avançado**  
    - [Adquira Aqui](https://pay.kiwify.com.br/hP20Upy)
 

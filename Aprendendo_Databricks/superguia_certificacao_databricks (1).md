@@ -5,6 +5,7 @@
 ## Objetivo do Guia
 
 Este guia tem como finalidade oferecer um material completo de estudo para a certificação **Databricks Data Engineer Associate**, com base no **Treinamento Aprender Dados**, que é o núcleo desta preparação. 
+
 O treinamento cobre de forma prática e teórica os principais tópicos cobrados no exame, complementado por simulados exclusivos e materiais de apoio.
 
 ---

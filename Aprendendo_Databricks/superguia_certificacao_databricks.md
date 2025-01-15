@@ -104,6 +104,7 @@ graph TD;
     D --> E[Automação com Pipelines];
     E --> F[Governança e Segurança de Dados];
     F --> G[Simulados e Revisões].
+    
 ```
 
 ---

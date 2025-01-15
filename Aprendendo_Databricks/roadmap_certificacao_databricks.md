@@ -134,3 +134,6 @@ Este guia reflete o método estruturado da **Aprender Dados** para ajudar na sua
 Conheça nosso treinamento que vai te ajudar a conquistar sua certificação!
 
 [![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_treinamento_certificacao_databricks_.png)](https://pay.kiwify.com.br/hP20Upy)
+
+
+@AprenderDados 2025

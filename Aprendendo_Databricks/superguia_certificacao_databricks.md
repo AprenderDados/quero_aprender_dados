@@ -103,7 +103,7 @@ graph TD;
     C --> D[Ingestão e Transformação de Dados];
     D --> E[Automação com Pipelines];
     E --> F[Governança e Segurança de Dados];
-    F --> G[Simulados e Revisões].
+    F --> G[Simulados e Revisões]
     
 ```
 

@@ -1,7 +1,5 @@
 # Roadmap Certificação Databricks Data Engineer Associate
 
----
-
 [![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_roadmap_certificacao_databricks.jpeg)](https://pay.kiwify.com.br/hP20Upy)
 
 
@@ -109,7 +107,8 @@ Segue o diagrama atualizado com os principais fluxos de estudo e implementação
 graph TD;
     A[Fundamentos do Lakehouse] --> B[Criação de Clusters];
     B --> C[Práticas com Delta Lake];
-    C --> D[Ingestão e Transformação de Dados];
+    C --> D[Ingestão e 
+    Transformação de Dados];
     D --> E[Automação com Pipelines];
     E --> F[Governança e Segurança de Dados];
     F --> G[Simulados e Revisões]

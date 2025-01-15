@@ -2,7 +2,7 @@
 
 ---
 
-[![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_superguia_certificacao_databricks.jpeg)](https://pay.kiwify.com.br/hP20Upy)
+[![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_roadmap_certificacao_databricks.jpeg)](https://pay.kiwify.com.br/hP20Upy)
 
 
 ## Objetivo do Guia
@@ -130,3 +130,4 @@ graph TD;
 
 Este guia reflete o método estruturado da **Aprender Dados** para ajudar na sua aprovação na certificação. 
 
+[![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_treinamento_certificacao_databricks.jpeg)](https://pay.kiwify.com.br/hP20Upy)

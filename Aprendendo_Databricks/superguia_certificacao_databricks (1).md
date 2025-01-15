@@ -57,9 +57,9 @@ Nosso treinamento abrange as principais áreas para a certificação, organizada
 
 Nossos simulados são parte fundamental da preparação:
 
-1. **Simulado 1: Preparação Inicial**  
-2. **Simulado 2: Intermediário**  
-3. **Simulado 3: Avançado**  
+**Simulado 1: Preparação Inicial**  
+**Simulado 2: Intermediário**  
+**Simulado 3: Avançado**  
    - [Adquira Aqui](https://pay.kiwify.com.br/hP20Upy)
 
 ---

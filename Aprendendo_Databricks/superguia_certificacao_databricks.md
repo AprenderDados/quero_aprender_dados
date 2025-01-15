@@ -1,20 +1,25 @@
-# Superguia de Estudos para a Certificação Databricks Data Engineer Associate
+# Roadmap Certificação Databricks Data Engineer Associate
 
 ---
+
+[![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_superguia_certificacao_databricks.jpeg)](https://pay.kiwify.com.br/hP20Upy)
+
 
 ## Objetivo do Guia
 
-Este guia tem como finalidade oferecer um material completo de estudo para a certificação **Databricks Data Engineer Associate**, com base no **Treinamento Aprender Dados**, que é o núcleo desta preparação. 
+Este guia tem como finalidade oferecer um material completo de estudo para a certificação **Databricks Data Engineer Associate**, com base no **Treinamento Aprender Dados**, que é a base teórica desta preparação. 
 
-O treinamento cobre de forma prática e teórica os principais tópicos cobrados no exame, complementado por simulados exclusivos e materiais de apoio.
+O treinamento ensina de forma prática e teórica os principais tópicos cobrados no exame, complementado por simulados exclusivos e materiais de apoio.
 
 ---
 
-## Estrutura do Exame
+## Como é a prova da certificação?
 
 O exame está dividido em tópicos de alta relevância para um engenheiro de dados iniciante, com base em cenários práticos e arquiteturas modernas como Lakehouse. 
 
 Os principais temas incluem:
+
+(todos esses assuntos estão detalhados no treinamento completo)
 
 1. **Databricks Lakehouse Platform (24%)**
    - Compreender as vantagens e uso da plataforma Lakehouse.
@@ -38,9 +43,9 @@ Os principais temas incluem:
 
 ---
 
-## Treinamento Aprender Dados
+## Conheça a preparação para certificação Databricks DataEng Associate
 
-[**Adquira agora o Treinamento Aprender Dados**](https://pay.kiwify.com.br/hP20Upy)
+[**Adquira agora o Treinamento**](https://pay.kiwify.com.br/hP20Upy)
 
 [**Já comprei o curso**](https://alunos.aprenderdados.com/189295-preparatorio-databricks-data-engineering-associate)
 
@@ -113,7 +118,7 @@ graph TD;
 
 ---
 
-## Checklist de Preparação
+## Seu Checklist para aprovação
 
 1. [ ] Complete o **Treinamento Aprender Dados**.
 2. [ ] Realize os três simulados.
@@ -123,4 +128,5 @@ graph TD;
 
 ---
 
-Este guia reflete o método estruturado da **Aprender Dados** para garantir sua aprovação na certificação. Para dúvidas, estamos à disposição! 😊
+Este guia reflete o método estruturado da **Aprender Dados** para ajudar na sua aprovação na certificação. 
+

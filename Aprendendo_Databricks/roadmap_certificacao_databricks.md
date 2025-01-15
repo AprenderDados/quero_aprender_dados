@@ -110,7 +110,8 @@ graph TD;
     C --> D[Ingestão e 
     Transformação de Dados];
     D --> E[Automação com Pipelines];
-    E --> F[Governança e Segurança de Dados];
+    E --> F[Governança e 
+    Segurança de Dados];
     F --> G[Simulados e Revisões]
     
 ```
@@ -129,4 +130,4 @@ graph TD;
 
 Este guia reflete o método estruturado da **Aprender Dados** para ajudar na sua aprovação na certificação. 
 
-[![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_treinamento_certificacao_databricks.png)](https://pay.kiwify.com.br/hP20Upy)
+[![Miniatura](https://raw.githubusercontent.com/AprenderDados/quero_aprender_dados/main/Aprendendo_Databricks/img/img_treinamento_certificacao_databricks_.png)](https://pay.kiwify.com.br/hP20Upy)
